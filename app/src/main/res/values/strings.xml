@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Power Hours</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_playlists">Playlists</string>
+    <string name="title_activity_playlist">PlaylistActivity</string>
+    <string name="title_activity_edit_playlist">EditPlaylistActivity</string>
+    <string name="title_activity_new_power_hour">NewPowerHourActivity</string>
+
+</resources>
